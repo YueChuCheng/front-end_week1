@@ -1,0 +1,49 @@
+div {
+    
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin: -150px 0 0 -300px;
+  }
+  p,ul{
+
+    font-family:"思源宋體"
+        }
+  h1{
+    
+    
+    font-family:"思源宋體";
+    position: absolute;
+    color:#f7feff;
+    left: 10%;
+    
+  }
+
+
+  .middletext{
+   
+    text-align:center;
+
+  }
+
+
+  body{
+
+    background-color: #24253f;
+
+
+  }
+
+  section {
+    background: #f7feff;
+    width: 625px;
+    height: 525px;
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    margin: -150px 0 0 -250px;
+    display: table;
+   
+  
+}
+
